@@ -38,6 +38,10 @@ plumio is a self-hosted markdown editor designed for individuals and teams who w
 
 To get started with plumio, check out our [self-hosting guide](https://plumio.app/docs/self-hosting) for step-by-step instructions on how to set up your own instance. Once you have it up and running, you can start creating and organizing your notes right away!
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/plumio/)
+
 ## Download desktop app
 
 > The desktop app is not signed with an Apple Developer ID or Microsoft certificate, so you may encounter warnings when trying to run it. This is expected for unsigned apps. To run the app, you will need to bypass these warnings:
